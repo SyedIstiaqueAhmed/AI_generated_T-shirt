@@ -1,6 +1,6 @@
 const config = {
   development: {
-    backendUrl: "https://syedistiaqueahmed.github.io/AI_generated_T-shirt/api/v1/dalle",
+    backendUrl: "http://localhost:8080/api/v1/dalle",
   },
   production: {
     backendUrl: "https://devswag.onrender.com/api/v1/dalle",
